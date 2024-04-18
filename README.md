@@ -1,3 +1,6 @@
+![Alt text](onprem to cloud-Page-1.drawio.png)
+
+---
 # Cloud Networking Project
 
 ## Project Overview
@@ -33,7 +36,9 @@ This project establishes a robust connection between an on-premises network and 
 
 ## Diagram
 
-Refer to the visual representation of the project architecture available in the [diagram](link-to-diagram) provided within the GitHub repository.
+![Alt text](onprem.png)
+
+---
 
 ## Additional Resources
 
