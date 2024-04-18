@@ -1,4 +1,4 @@
-![Alt text]()
+![Alt text](onprem_to_cloud-Page-1.drawio.png)
 ---
 # Cloud Networking Project
 
